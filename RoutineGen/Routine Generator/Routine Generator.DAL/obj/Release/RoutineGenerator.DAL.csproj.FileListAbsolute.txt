@@ -1,0 +1,12 @@
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\RoutineGenerator.DAL.dll.config
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\RoutineGenerator.DAL.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\RoutineGenerator.DAL.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\EntityFramework.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\RoutineGenerator.ENTITY.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\RoutineGenerator.ENTITY.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\EntityFramework.xml
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\obj\Release\RoutineGenerator.DAL.csprojResolveAssemblyReference.cache
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\obj\Release\RoutineGenerator.DAL.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.DAL\obj\Release\RoutineGenerator.DAL.pdb

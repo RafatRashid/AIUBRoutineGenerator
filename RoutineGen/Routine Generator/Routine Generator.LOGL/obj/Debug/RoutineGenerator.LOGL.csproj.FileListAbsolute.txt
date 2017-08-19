@@ -1,0 +1,62 @@
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.csprojResolveAssemblyReference.cache
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\rafat\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.dll
+C:\Users\rafat\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\rafat\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.csprojResolveAssemblyReference.cache
+C:\Users\rafat\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.dll
+C:\Users\rafat\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.csprojResolveAssemblyReference.cache
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.xml
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.xml
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.csprojResolveAssemblyReference.cache
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.pdb
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.xml
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.csprojResolveAssemblyReference.cache
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RFTx003\Documents\Visual Studio 2015\Projects\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.LOGL.pdb
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.dll
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.dll
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.dll
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.DAL.pdb
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\RoutineGenerator.ENTITY.pdb
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.xml
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.csprojResolveAssemblyReference.cache
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.dll
+C:\Users\RFTx003\OneDrive\7th sem\C#\Codes\PROJECT final updated\RoutineGen\Routine Generator\Routine Generator.LOGL\obj\Debug\RoutineGenerator.LOGL.pdb

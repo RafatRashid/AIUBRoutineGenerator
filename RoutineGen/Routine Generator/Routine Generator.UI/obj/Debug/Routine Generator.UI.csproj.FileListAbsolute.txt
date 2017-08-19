@@ -1,0 +1,11 @@
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\bin\Debug\Routine Generator.UI.exe.config
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\obj\Debug\Routine Generator.UI.csprojResolveAssemblyReference.cache
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\obj\Debug\Routine_Generator.UI.Properties.Resources.resources
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\obj\Debug\Routine Generator.UI.csproj.GenerateResource.Cache
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\bin\Debug\Routine Generator.UI.exe
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\bin\Debug\Routine Generator.UI.pdb
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\bin\Debug\MetroFramework.dll
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\obj\Debug\Routine Generator.UI.exe
+C:\Users\RAFATX003\OneDrive\7th sem\C#\Codes\PROJECT\RoutineGen\Routine Generator.UI\Routine Generator.UI\obj\Debug\Routine Generator.UI.pdb

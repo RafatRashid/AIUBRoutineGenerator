@@ -1,0 +1,5 @@
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.ENTITY\bin\Release\RoutineGenerator.ENTITY.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.ENTITY\bin\Release\RoutineGenerator.ENTITY.pdb
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.ENTITY\obj\Release\RoutineGenerator.ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.ENTITY\obj\Release\RoutineGenerator.ENTITY.dll
+C:\Users\rafat\Documents\Visual Studio 2012\projects\PROJECT\RoutineGen\Routine Generator\Routine Generator.ENTITY\obj\Release\RoutineGenerator.ENTITY.pdb
